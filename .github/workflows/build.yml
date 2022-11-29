@@ -1,0 +1,44 @@
+name: build
+
+on:
+  push:
+    branches: 
+      - main
+
+env:
+  DRIVER_VERSION: "0.10.2"
+
+jobs:
+  get-kernels:
+    runs-on: ubuntu-latest
+    outputs:
+      kernels: ${{ steps.set-kernels.outputs.kernels }}
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - id: set-kernels
+        run: |
+          kernels=$(cat ./kernels/amazonlinux2.json | jq -c '.AmazonLinux2')
+          echo "kernels=$kernels" >> $GITHUB_OUTPUT
+          echo $kernels
+
+  build:
+    needs: get-kernels
+    runs-on: ubuntu-latest
+    container:
+      image: falcosecurity/driverkit
+      volumes:
+        - /var/run/docker.sock:/var/run/docker.sock
+    strategy:
+      matrix: 
+        kernels: ${{fromJson(needs.get-kernels.outputs.kernels)}}
+        driver-version: ['3.0.1+driver']
+        # architecture: [amd64, arm64]
+    steps:
+      - name: Rename artifacts
+        run: |
+          mkdir -p output/${{ matrix.driver-version }}
+      - name: Create Kernel
+        run: driverkit docker --dryrun --architecture=amd64 --kernelversion=${{ matrix.kernels.kernelversion }} --kernelrelease=${{ matrix.kernels.kernelrelease}} --driverversion=$DRIVER_VERSION --target=${{ matrix.kernels.target }} --kernelurls=${{ matrix.kernels.headers[0] }} --output-module="./output/${{ matrix.driver-version }}/x86_64/falco_${{ matrix.kernels.target }}.${{ matrix.kernels.kernelrelease }}_${{ matrix.kernels.kernelversion }}.ko"
+
