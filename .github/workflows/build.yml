@@ -47,8 +47,8 @@ jobs:
     permissions:
       id-token: write
       contents: read
-    container:
-      image: falcosecurity/driverkit
+    # container:
+    #   image: falcosecurity/driverkit
       volumes:
         - /var/run/docker.sock:/var/run/docker.sock
     strategy:
@@ -59,6 +59,12 @@ jobs:
       - name: Rename artifacts
         run: |
           mkdir -p output/$DRIVER_VERSION/x86_64
+
+      - name: Setup Golang
+        uses: actions/setup-go@v3
+
+      - name: Install Driverkit
+        run: go install github.com/falcosecurity/driverkit@latest
 
       - name: Create Kernel
         run: driverkit docker --architecture=amd64 --kernelversion=${{ matrix.kernels.kernelversion }} --kernelrelease=${{ matrix.kernels.kernelrelease}} --driverversion="$DRIVERKIT_VERSION" --target=${{ matrix.kernels.target }} --kernelurls="${{ matrix.kernels.headers[0] }}" --output-module="./output/$DRIVER_VERSION/x86_64/falco_${{ matrix.kernels.target }}.${{ matrix.kernels.kernelrelease }}_${{ matrix.kernels.kernelversion }}.ko"
