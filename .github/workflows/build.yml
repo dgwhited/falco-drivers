@@ -34,7 +34,7 @@ jobs:
       - id: set-kernels
         run: |
           pip install boto3
-          kernels=$(python ./github/diff.py)
+          kernels=$(python ./.github/diff.py)
           echo "kernels=$kernels" >> $GITHUB_OUTPUT
           echo $kernels
 
