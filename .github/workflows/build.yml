@@ -64,7 +64,7 @@ jobs:
         run: |
           mkdir -p output/$DRIVER_VERSION
       - name: Create Kernel
-        run: driverkit docker --architecture=amd64 --kernelversion=${{ matrix.kernels.kernelversion }} --kernelrelease=${{ matrix.kernels.kernelrelease}} --driverversion=$DRIVERKIT_VERSION --target=${{ matrix.kernels.target }} --kernelurls=${{ matrix.kernels.headers[0] }} --output-module="./output/$DRIVER_VERSION/x86_64/falco_${{ matrix.kernels.target }}.${{ matrix.kernels.kernelrelease }}_${{ matrix.kernels.kernelversion }}.ko"
+        run: driverkit docker --architecture=amd64 --kernelversion=${{ matrix.kernels.kernelversion }} --kernelrelease=${{ matrix.kernels.kernelrelease}} --driverversion="$DRIVERKIT_VERSION" --target=${{ matrix.kernels.target }} --kernelurls="${{ matrix.kernels.headers[0] }}" --output-module="./output/$DRIVER_VERSION/x86_64/falco_${{ matrix.kernels.target }}.${{ matrix.kernels.kernelrelease }}_${{ matrix.kernels.kernelversion }}.ko"
 
   push:
     needs: build
