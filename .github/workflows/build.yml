@@ -6,7 +6,9 @@ on:
       - main
 
 env:
-  DRIVER_VERSION: "0.10.2"
+  DRIVERKIT_VERSION: "0.10.2"
+  DRIVER_VERSION: '3.0.1+driver'
+  S3_DRIVERS_BUCKET: "drivers-falco"
 
 jobs:
   get-kernels:
@@ -56,12 +58,26 @@ jobs:
     strategy:
       matrix: 
         kernels: ${{fromJson(needs.get-kernels.outputs.kernels)}}
-        driver-version: ['3.0.1+driver']
         # architecture: [amd64, arm64]
     steps:
       - name: Rename artifacts
         run: |
-          mkdir -p output/${{ matrix.driver-version }}
+          mkdir -p output/$DRIVER_VERSION
       - name: Create Kernel
-        run: driverkit docker --dryrun --architecture=amd64 --kernelversion=${{ matrix.kernels.kernelversion }} --kernelrelease=${{ matrix.kernels.kernelrelease}} --driverversion=$DRIVER_VERSION --target=${{ matrix.kernels.target }} --kernelurls=${{ matrix.kernels.headers[0] }} --output-module="./output/${{ matrix.driver-version }}/x86_64/falco_${{ matrix.kernels.target }}.${{ matrix.kernels.kernelrelease }}_${{ matrix.kernels.kernelversion }}.ko"
+        run: driverkit docker --architecture=amd64 --kernelversion=${{ matrix.kernels.kernelversion }} --kernelrelease=${{ matrix.kernels.kernelrelease}} --driverversion=$DRIVERKIT_VERSION --target=${{ matrix.kernels.target }} --kernelurls=${{ matrix.kernels.headers[0] }} --output-module="./output/$DRIVER_VERSION/x86_64/falco_${{ matrix.kernels.target }}.${{ matrix.kernels.kernelrelease }}_${{ matrix.kernels.kernelversion }}.ko"
 
+  push:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@master
+        with:
+          role-to-assume: ${{ secrets.ROLE_TO_ASSUME }}
+          aws-region: us-east-1
+
+      - name: Copy to S3
+        run: aws s3 cp "output/$DRIVER_VERSION/" "s3://$S3_DRIVERS_BUCKET/$DRIVER_VERSION/" --recursive 
