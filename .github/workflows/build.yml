@@ -44,6 +44,7 @@ jobs:
   build:
     needs: get-kernels
     runs-on: ubuntu-latest
+    continue-on-error: true
     permissions:
       id-token: write
       contents: read
