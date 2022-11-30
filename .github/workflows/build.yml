@@ -11,6 +11,9 @@ env:
 jobs:
   get-kernels:
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
     outputs:
       kernels: ${{ steps.set-kernels.outputs.kernels }}
     steps:
