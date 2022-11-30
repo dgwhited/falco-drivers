@@ -40,17 +40,13 @@ jobs:
           echo "kernels=$kernels" >> $GITHUB_OUTPUT
           echo $kernels
 
-      # - name: 
-      # - id: set-kernels
-      #   run: |
-      #     kernels=$(cat ./kernels/amazonlinux2.json | jq -c '.AmazonLinux2')
-      #     echo "kernels=$kernels" >> $GITHUB_OUTPUT
-      #     echo $kernels
-
 
   build:
     needs: get-kernels
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
     container:
       image: falcosecurity/driverkit
       volumes:
