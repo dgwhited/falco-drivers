@@ -6,7 +6,8 @@ on:
       - main
 
 env:
-  DRIVERKIT_VERSION: "0.9.2"
+  DRIVERKIT_VERSION: "0.10.2"
+  LIBS_VERSION: "0.9.2"
   DRIVER_VERSION: '3.0.1+driver'
   S3_DRIVERS_BUCKET: "drivers-falco"
 
@@ -70,7 +71,7 @@ jobs:
         run: go install github.com/falcosecurity/driverkit@v$DRIVERKIT_VERSION
 
       - name: Create Kernel
-        run: driverkit docker --architecture=amd64 --builderimage "falcosecurity/driverkit-builder:latest" --kernelversion=${{ matrix.kernels.kernelversion }} --kernelrelease=${{ matrix.kernels.kernelrelease}} --driverversion="$DRIVERKIT_VERSION" --target=${{ matrix.kernels.target }} --kernelurls="${{ matrix.kernels.headers[0] }}" --output-module="./output/$DRIVER_VERSION/x86_64/falco_${{ matrix.kernels.target }}.${{ matrix.kernels.kernelrelease }}_${{ matrix.kernels.kernelversion }}.ko" --timeout 240 -l debug
+        run: driverkit docker --architecture=amd64 --builderimage "falcosecurity/driverkit-builder:latest" --kernelversion=${{ matrix.kernels.kernelversion }} --kernelrelease=${{ matrix.kernels.kernelrelease}} --driverversion="$LIBS_VERSION" --target=${{ matrix.kernels.target }} --kernelurls="${{ matrix.kernels.headers[0] }}" --output-module="./output/$DRIVER_VERSION/x86_64/falco_${{ matrix.kernels.target }}.${{ matrix.kernels.kernelrelease }}_${{ matrix.kernels.kernelversion }}.ko" --timeout 240 -l debug
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@master
