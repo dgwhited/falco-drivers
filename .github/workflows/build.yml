@@ -55,8 +55,7 @@ jobs:
     strategy:
       matrix: 
         kernels: ${{fromJson(needs.get-kernels.outputs.kernels)}}
-        driver-version: ['2.0.0+driver', '3.0.1+driver']
-        # architecture: [amd64, arm64]
+        driver-version: ['2.0.0+driver']
     steps:
       - name: Rename artifacts
         run: |
