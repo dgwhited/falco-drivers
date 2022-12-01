@@ -43,6 +43,7 @@ jobs:
 
   build:
     needs: get-kernels
+    if: ${{ needs.get-kernels.outputs.kernels != '[]' && needs.get-kernels.outputs.kernels != '' }}
     runs-on: ubuntu-latest
     continue-on-error: true
     permissions:
