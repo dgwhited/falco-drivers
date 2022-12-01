@@ -58,6 +58,8 @@ def main():
 
     drivers_to_build = []
     for driver in drivers.get("AmazonLinux2"):
+        if driver.get("kernelrelease").split(".")[0] == "4":
+            continue
         driver_path = build_driver_string(driver)
         try:
             s3.head_object(
