@@ -80,4 +80,24 @@ jobs:
           aws-region: us-east-1
 
       - name: Copy to S3
-        run: aws s3 cp "output/${{ matrix.driver-version }}/" "s3://$S3_DRIVERS_BUCKET/${{ matrix.driver-version }}/" --recursive 
+        run: aws s3 cp "output/${{ matrix.driver-version }}/" "s3://$S3_DRIVERS_BUCKET/${{ matrix.driver-version }}/" --recursive
+
+      - name: Send custom JSON data to Slack workflow
+        id: slack
+        uses: slackapi/slack-github-action@v1.23.0
+        with:
+          payload: |
+            {
+            "text": "New Falco Driver Built",
+            "attachments": [{
+                "blocks": [{
+                    "type": "section",
+                    "text": {
+                        "type": "mrkdwn",
+                        "text": "falco_${{ matrix.kernels.target }}.${{ matrix.kernels.kernelrelease }}_${{ matrix.kernels.kernelversion }}.ko"
+                    }
+                  }]
+              }]
+            }
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK }}
