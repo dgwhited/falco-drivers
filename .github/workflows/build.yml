@@ -88,14 +88,7 @@ jobs:
         with:
           payload: |
             {
-            "text": "New Falco Driver Built",
-                "blocks": [{
-                    "type": "section",
-                    "text": {
-                        "type": "mrkdwn",
-                        "text": "falco_${{ matrix.kernels.target }}.${{ matrix.kernels.kernelrelease }}_${{ matrix.kernels.kernelversion }}.ko"
-                    }
-                }]
+            "text": "New Falco Driver Built - falco_${{ matrix.kernels.target }}.${{ matrix.kernels.kernelrelease }}_${{ matrix.kernels.kernelversion }}.ko"
             }
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK }}
