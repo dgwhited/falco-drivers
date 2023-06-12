@@ -2,170 +2,10 @@
   "AmazonLinux2": [
     {
       "kernelversion": 1,
-      "kernelrelease": "4.14.33-59.34.amzn2.x86_64",
+      "kernelrelease": "4.14.305-227.531.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/8cc01ea526bd05bbb937fbb21bd734de49255d8a9853943ee901ccdf487ee23b/kernel-devel-4.14.33-59.34.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.281-212.502.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/333f944a7a5ee308d61a30c3dff09017232758e1186d6e4490aeffe82c30cc40/kernel-devel-4.14.281-212.502.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.198-152.320.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/e3cdf44c0e0e6f058b33096b5db1b4284f6f83c8c49848fca9dc50428c656eb8/kernel-devel-4.14.198-152.320.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.309-231.529.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/d503c64fcf6933da619df2655d1d72d46c21e60619955d2a0d73fede7e623122/kernel-devel-4.14.309-231.529.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.70-72.55.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/c6d10fb9a508d39c236f87146686f5649d6d6837153c1f1ad2f2de201304c19d/kernel-devel-4.14.70-72.55.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.177-139.254.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/0848bbdc8b0db2b0cb50cd627bdcfb678b9e92e89dcf151327b68bbb93da7387/kernel-devel-4.14.177-139.254.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.291-218.527.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/b7dd61cffbd62d7fa778bf8ec2df12cbe4849ca80ab71e31acf518da3f9d3c89/kernel-devel-4.14.291-218.527.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.273-207.502.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/333bc137363dd5992f5ac6987e682c0dffceeff9333d13128fe3209d41412afb/kernel-devel-4.14.273-207.502.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.173-137.228.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/c181d3fc4dbd30a5d92eb506a0f220c015013b2a0ec515ccaa25463164cc55a5/kernel-devel-4.14.173-137.228.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.9.75-1.56.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/ae757f139e69f930fe9f703974265e913367cc2c798b69d5dd5cf062992c80e4/kernel-devel-4.9.75-1.56.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.9.77-41.59.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/b7c31d392e4b09503950d7d4c6590000cd7b7111d304e02e01b6b884a5882baf/kernel-devel-4.9.77-41.59.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.177-139.253.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/c0e5c1817dd874e97740a0eec3726e3d75ef5ed72d5d27311bdddd3de5785ad3/kernel-devel-4.14.177-139.253.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.72-73.55.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/2d755914f9f54c12d4b3fef793a1bb7b19c357c8c01d1817da10137bcc2c00b0/kernel-devel-4.14.72-73.55.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.225-169.362.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/0f7877bb7c98a76a04bec91833a76ec3ea7051a46d10072eaea743adda47b07d/kernel-devel-4.14.225-169.362.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.200-155.322.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/b3d4d12c9825e8f8dbe1e9d37ca4453bf1596ed42f01f9a924b24a2e3b7057e6/kernel-devel-4.14.200-155.322.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.165-131.185.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/e09baac08866224e31624501530d697f19317af4488f0c5147a1c72ab63094cb/kernel-devel-4.14.165-131.185.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.42-61.37.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/ed05d54929a5814fdcbd8b4a8c835538032b243e1d1b69b5d08b6e9b2c11df3d/kernel-devel-4.14.42-61.37.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.9.85-47.59.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/05b73c14084f2f5986549eae006bed1c695ca1342f5bbcb7882369bf199c457c/kernel-devel-4.9.85-47.59.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.313-235.533.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/e3fb49c29b5268266178d639ed186d537e6f24aa7afba481192ab1df2ed29683/kernel-devel-4.14.313-235.533.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.152-124.171.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/9acd7d9728341af2d43430f62db793c18866f3d3d66706e7f395069dc3c27b8a/kernel-devel-4.14.152-124.171.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.152-127.182.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/17e31daebc2985f0aabec4b962286404d9633219e6831b5ab3e7a32e6521e214/kernel-devel-4.14.152-127.182.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/ca15103bb19715ea7001a89895d748747d4aac7375d151a129e68a6bb3dd9c56/kernel-devel-4.14.305-227.531.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -173,327 +13,7 @@
       "kernelrelease": "4.14.143-118.123.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/9c2104a1489388a13800b6bbdc4385b0ab78cf95f47abf0ebdbfa8f169e92b64/kernel-devel-4.14.143-118.123.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.192-147.314.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/2c04c98cab68f805e07e41bffe8e309383410c31291ca4d2451dc7201687c24e/kernel-devel-4.14.192-147.314.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.311-233.529.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/ae579b73fa16364fb6507796f71aa27b12f1be1920b0279db5b72b873959b81b/kernel-devel-4.14.311-233.529.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.232-177.418.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/365e57e2c3e24ea0f33adbfe1feeb56e962fa2c8cb9acccde4a64da055076815/kernel-devel-4.14.232-177.418.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.262-200.489.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/717b7ed75b4782b7ba462bf344015be77f74b6f204c4a78969469a9e7656edf7/kernel-devel-4.14.262-200.489.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.9.85-46.56.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/0cea2749a68ec7ee0c9207d9993814c692d11c320e4b4570aea73995bc6e018b/kernel-devel-4.9.85-46.56.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.181-142.260.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/bc2f4303e39f87813564ef53c184678c26b49d66b7a8af262fe82423c3ae7090/kernel-devel-4.14.181-142.260.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.256-197.484.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/3a9c5e0dcd72b56375ae09187435471c7644775d4047d6361cefeed3e0aaa4a8/kernel-devel-4.14.256-197.484.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.203-156.332.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/4c9bb7e4d425559a12975c7b2040f66b05cd4d4da42c783c64e47bee92506255/kernel-devel-4.14.203-156.332.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.77-86.82.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/9f388164ea775e7a6c36c8628bb9a66a47d9fe27c99e732a210f357e1213dda7/kernel-devel-4.14.77-86.82.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.133-113.112.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/97b246d5000b5166ab088a3f43067c26d07122cfa75e57332011ec8dd85e17c8/kernel-devel-4.14.133-113.112.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.88-88.76.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/6eba5df81c75bbf2615acc62a5738f22f20af51dfc775f24dea82d8dd7848270/kernel-devel-4.14.88-88.76.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.171-136.231.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/07ea6af089b546e54fb8dbc078bba180866e695754bc6efc16e58da9c48e2b54/kernel-devel-4.14.171-136.231.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.268-205.500.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/0815c303b641ff8f4eabb9a5ed47763fd570b0af37a2636b2bdff92d7faf5a03/kernel-devel-4.14.268-205.500.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.181-140.257.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/8ab1b036e97e9b6897464be1cbbb9fa4a3d6be0c81aed73a425b169b8a5ca04c/kernel-devel-4.14.181-140.257.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.296-222.539.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/635c3af49a948c3844fc8b638ef25898aeeb863ea647a417e6e8a4f2d58fc231/kernel-devel-4.14.296-222.539.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.243-185.433.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/ae3847b9c8d37107880dacd9667f26c07626b3ffd860294e1d29289f3408eff6/kernel-devel-4.14.243-185.433.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.138-114.102.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/8063f68b8426af91385f4bf65da960468153c9cd614083501c50be885fc7a09b/kernel-devel-4.14.138-114.102.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.77-81.59.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/b73a5a824bd1eb23522128573839e862d4d89ef8d544371b7c2bc3ae4730125b/kernel-devel-4.14.77-81.59.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.77-80.57.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/5d873815f1dd6d7cc1daf1e7beac5f0272fea77f7a4cd6668e930311a1265cd3/kernel-devel-4.14.77-80.57.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.238-182.422.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/9c166a40b046e9d47796bdd3ddbfe0db94f67cbc885f68c353bb10c331b4abb9/kernel-devel-4.14.238-182.422.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.33-59.37.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/1f2a8f97b200fb733971427e3a0d77fabaf2539a4a0f83178abf03afc123b55c/kernel-devel-4.14.33-59.37.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.121-109.96.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/bf8060e0b066eeb4be444d2246363ae501e98772c453295ed51eb5d07e9709c9/kernel-devel-4.14.121-109.96.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.51-66.38.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/0389abb805f0c83173dde432e30527bbbdddd4aa4e3e6b406e43a3ed6f201185/kernel-devel-4.14.51-66.38.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.9.81-44.57.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/36709bc1af006d547d723e6dc99905667c7e7f1b11f249ea87c923807b0a44e2/kernel-devel-4.9.81-44.57.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.304-226.531.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/58406d28b6fa8c218f3c6beb7f01fff2b1b55da5c165002edaab20781e045b6e/kernel-devel-4.14.304-226.531.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.158-129.185.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/df87ab5931f4ec34c86ee21fddfc6db3af5b6532473d5873748ad8362068c5b9/kernel-devel-4.14.158-129.185.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.219-161.340.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/f31514d804035b669f75eb2e346d0dff3781d87bab6c4ef14909bc052e31d6f0/kernel-devel-4.14.219-161.340.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.55-68.37.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/fad2de4ee1cb497b89b8a872b6f2b3ca6b973f1cf9223dd4f575b54365d9d0ad/kernel-devel-4.14.55-68.37.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.275-207.503.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/8ccf859409cd2467c46bd5a6eadc4aa3c1505d0e573fb710aae8b50484e596bc/kernel-devel-4.14.275-207.503.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.314-237.533.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/0d0a9a3aa55c4308a59c59fc062b239a1351cfa9587d667e885e96e2e6e4007d/kernel-devel-4.14.314-237.533.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.47-64.38.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/75e5e9ac4e840b4400380247e970aa9423c2cf54418205746c4b103ba0b20c8d/kernel-devel-4.14.47-64.38.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.9.62-10.57.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/18381632cff65dcf8dd4b7fe67bb45f58dc85720816c78d03ffa6677cab4b9e1/kernel-devel-4.9.62-10.57.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.209-160.339.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/7f6ec8659085118d7cbd25dca21a80ece8ae22885e0ce64398c26639167b9616/kernel-devel-4.14.209-160.339.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.314-238.539.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/9b8d0aad6a3f985b2e96a8fa696550212e23b3b2f349ad12c123ed76c2005a2a/kernel-devel-4.14.314-238.539.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.209-160.335.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/8abbb0987d5ec4e3f25385e55233a2340a9d86ef03611aa172f348d2c8cd47bb/kernel-devel-4.14.209-160.335.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.97-90.72.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/346eda9496f9685e6faf173f13b05b91f9939ad5e0cdec4bddd5fa781304fa78/kernel-devel-4.14.97-90.72.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.246-187.474.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/ff1255c01ad7ce677e56c9526dacbf461b259939daa19b639f83364253f79711/kernel-devel-4.14.246-187.474.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.109-99.92.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/61236e7b9a07d600f27ebddba9bb498b5d38b61ae5aaa644d8a79b2a370e6a02/kernel-devel-4.14.109-99.92.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.165-133.209.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/79e8311f18ec9914180a1864761193630c6f7549756dad830e6d5f3e65a4ad93/kernel-devel-4.14.165-133.209.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.287-215.504.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/0971217c89c71bf2b4bee131e72f9f4170cc051c6d87ef3a413e1b0232345140/kernel-devel-4.14.287-215.504.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/9c2104a1489388a13800b6bbdc4385b0ab78cf95f47abf0ebdbfa8f169e92b64/kernel-devel-4.14.143-118.123.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -501,303 +21,39 @@
       "kernelrelease": "4.14.59-68.43.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/cef1b3782083c7a0a1ab863a64977257aafbc59f95fe76ccddfefcb5098720e8/kernel-devel-4.14.59-68.43.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/cef1b3782083c7a0a1ab863a64977257aafbc59f95fe76ccddfefcb5098720e8/kernel-devel-4.14.59-68.43.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "4.14.285-215.501.amzn2.x86_64",
+      "kernelrelease": "4.14.313-235.533.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/d37190e2b6c7e13361aee28f5cc063c7333440516e9dadcc8e5439ec2d6beadd/kernel-devel-4.14.285-215.501.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/e3fb49c29b5268266178d639ed186d537e6f24aa7afba481192ab1df2ed29683/kernel-devel-4.14.313-235.533.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "4.14.305-227.531.amzn2.x86_64",
+      "kernelrelease": "4.9.85-46.56.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/ca15103bb19715ea7001a89895d748747d4aac7375d151a129e68a6bb3dd9c56/kernel-devel-4.14.305-227.531.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/0cea2749a68ec7ee0c9207d9993814c692d11c320e4b4570aea73995bc6e018b/kernel-devel-4.9.85-46.56.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "4.14.193-149.317.amzn2.x86_64",
+      "kernelrelease": "4.9.81-44.57.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/f40a678cd2d9ff76c2185b1373e78298fb0cf13ac9b00b01d14f2779108ce243/kernel-devel-4.14.193-149.317.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/36709bc1af006d547d723e6dc99905667c7e7f1b11f249ea87c923807b0a44e2/kernel-devel-4.9.81-44.57.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "4.14.62-70.117.amzn2.x86_64",
+      "kernelrelease": "4.14.42-61.37.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/58c985fddfcaf4352a61b9682a9627c7d1af7f369da5a05bb54f3e66d69e6b7a/kernel-devel-4.14.62-70.117.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.133-113.105.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/d59c3695e9b79c253a02ee63051880df267700db4180ff05f97b28b095085791/kernel-devel-4.14.133-113.105.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.225-168.357.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/d7f6407947f343c6793ae5c18b0013c326bb16bd0c85588f3799ba9a79d936fb/kernel-devel-4.14.225-168.357.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.67-71.56.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/322f831d51f5274eb27ceec1d50d91244ca4661969e0ef22a0c7e1d5091645c9/kernel-devel-4.14.67-71.56.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.26-54.32.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/092a176ab06c9fbd1a2507a7c938bdda5a4257d9a8ca51af9827ad8b911621b1/kernel-devel-4.14.26-54.32.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.294-220.533.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/1c003b73b358c6e35aaf546b0cc90e5f5893b8f3a3b114cdfc45b4d7e5f4dbaf/kernel-devel-4.14.294-220.533.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.146-119.123.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/721621e181aacad5ef4ceb3d21e94e85d3a7c0ee8a12cceacfd51b750bc65e22/kernel-devel-4.14.146-119.123.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.47-63.37.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/0c2fc20a36d00010828636f355baae1fee84c15fe0a773a78d94ce1c8ba99d70/kernel-devel-4.14.47-63.37.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.106-97.85.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/9b3bfa84244fe45d6f1e3cc1213cc3466b8b608e5991012ce49daf30cd213363/kernel-devel-4.14.106-97.85.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.238-182.421.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/fa947a840e5a77bd5d1d911c085a1bc89ff563d39c436de2ac3b339a01052a77/kernel-devel-4.14.238-182.421.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.231-173.360.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/afcce9722d7797b3bad6982cdddcdc16e088c2aa3609843780f765c3d7fffed8/kernel-devel-4.14.231-173.360.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.101-91.76.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/ede82888a2a4bedac8dce3b992d510e5af06cf7ec91d30098b2830ab6a37ca46/kernel-devel-4.14.101-91.76.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.114-105.126.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/31d5277c31f70051058192957d1d41caf4ce16c1abb653c3829eb921a2b5820c/kernel-devel-4.14.114-105.126.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.301-224.520.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/39bf5a8a0084b2dfd13183f36352dcc82894919dd4a776025e8a28e584474850/kernel-devel-4.14.301-224.520.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.9.76-38.79.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/961c3f208e61435f3d35f02115e3b2a94a42b5f264fac75d71ccabfa76dc947d/kernel-devel-4.9.76-38.79.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.301-225.528.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/dc77ca894bf57d8b3ad63e9122670fed414fbc5800601f7339ea5443c93a9291/kernel-devel-4.14.301-225.528.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.154-128.181.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/e30fc570fd5d7eb1d80ff1029ccce803f12b4fe1145c591aea337f5300174084/kernel-devel-4.14.154-128.181.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.232-176.381.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/a2c0ba54566bf959dff722a155b030452178e89ea15fdb529478b1dc1cd98791/kernel-devel-4.14.232-176.381.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.88-88.73.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/553e60923b1173b225de6618cf7625b197f2a69dbec3c4dea19b2e64a6b93b5c/kernel-devel-4.14.88-88.73.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.114-103.97.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/aacf53daeb34e5d547cccd61ab2c32bd8366f110fb3e3d460a95715d00b22f20/kernel-devel-4.14.114-103.97.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.146-120.181.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/2cc2ddc8593e07c1aa0365ea577185f3b4b0e5be3724be1aadd4ec1825620296/kernel-devel-4.14.146-120.181.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.248-189.473.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/7c2378dc73a2b8e20f9da894867b06750501618e3c4287364c64d5d6df8fba30/kernel-devel-4.14.248-189.473.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.104-95.84.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/f7e0e4ea03e8a20b2025e561bcfcee1348de5543ae0b46ebc2d44364a4451169/kernel-devel-4.14.104-95.84.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.252-195.483.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/131a4396b92f75edf7fd3c06c19bd0ee3d9a8bd2ecc32e7d7c21a3fd2dbdac6b/kernel-devel-4.14.252-195.483.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.9.70-2.243.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/481f28639c1695786af479b6d69ee095cb70f328c964274a986200ee13c33c96/kernel-devel-4.9.70-2.243.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.276-211.499.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/7d52dc18f0cc28227e5d750aa81d33639a611ff73a97c007131ae2f1287fe4be/kernel-devel-4.14.276-211.499.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.214-160.339.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/5d9614e0e8941e5fbc20ccd88ddd4ea228af6757e71fddc53125ead035395640/kernel-devel-4.14.214-160.339.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.186-146.268.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/5ee699a43db9d618cd9b2dce19c412eece824517aac40469995f84782380588b/kernel-devel-4.14.186-146.268.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.123-111.109.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/8caf088935e538f7c59ac19cefd96118de86c72e4dc479845c286a551fc07eff/kernel-devel-4.14.123-111.109.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.299-223.520.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/13b711e5117ca3ad3c459a303dedfdb6dc0ad7c1440aabf02df6407a43bd94df/kernel-devel-4.14.299-223.520.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.252-195.481.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/08182959330e4ca9b2998853887e5e9aded3e33f4bab0b4446aad82aaedddcca/kernel-devel-4.14.252-195.481.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.94-89.73.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/1d59b2e7fcf853883167dde06fad6267cce308b8f2f33124cdb4b747a518ac5c/kernel-devel-4.14.94-89.73.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.231-173.361.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/b3b7a346bb5fb921ccb9779672e31c7de807f639a619d122cbeb5d8da10636c5/kernel-devel-4.14.231-173.361.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "4.14.128-112.105.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/1ee54ede3dcf3eb3a02cf51adc6752d24033728c75180feb123d85460f970ed5/kernel-devel-4.14.128-112.105.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/ed05d54929a5814fdcbd8b4a8c835538032b243e1d1b69b5d08b6e9b2c11df3d/kernel-devel-4.14.42-61.37.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -805,23 +61,55 @@
       "kernelrelease": "4.14.219-164.354.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/a961a11bad97be354161e1be09c6032c414e804efd217feec7d721fd88804327/kernel-devel-4.14.219-164.354.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/a961a11bad97be354161e1be09c6032c414e804efd217feec7d721fd88804327/kernel-devel-4.14.219-164.354.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "4.14.290-217.505.amzn2.x86_64",
+      "kernelrelease": "4.14.238-182.422.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/8d64458b9a4edee57ac5c9fbd3c5a455e5e02e93606950212280b21b05945f43/kernel-devel-4.14.290-217.505.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/9c166a40b046e9d47796bdd3ddbfe0db94f67cbc885f68c353bb10c331b4abb9/kernel-devel-4.14.238-182.422.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "4.14.173-137.229.amzn2.x86_64",
+      "kernelrelease": "4.14.200-155.322.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/26607f2215328de1462ac99ce96a2a21204bef510b35a734d0c1c83fdbe117a0/kernel-devel-4.14.173-137.229.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/b3d4d12c9825e8f8dbe1e9d37ca4453bf1596ed42f01f9a924b24a2e3b7057e6/kernel-devel-4.14.200-155.322.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.70-72.55.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/c6d10fb9a508d39c236f87146686f5649d6d6837153c1f1ad2f2de201304c19d/kernel-devel-4.14.70-72.55.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.314-238.539.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/9b8d0aad6a3f985b2e96a8fa696550212e23b3b2f349ad12c123ed76c2005a2a/kernel-devel-4.14.314-238.539.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.252-195.483.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/131a4396b92f75edf7fd3c06c19bd0ee3d9a8bd2ecc32e7d7c21a3fd2dbdac6b/kernel-devel-4.14.252-195.483.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.62-70.117.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/58c985fddfcaf4352a61b9682a9627c7d1af7f369da5a05bb54f3e66d69e6b7a/kernel-devel-4.14.62-70.117.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -829,111 +117,719 @@
       "kernelrelease": "4.14.241-184.433.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/03f4f137776abd2d2da653c9b108988f2d4d5f952a793d23f279d954c6274253/../../../../../blobstore/71aeb93ee1f2a632d957561cc088fcfbed53712f07c26003896d7b6261afcb4b/kernel-devel-4.14.241-184.433.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/71aeb93ee1f2a632d957561cc088fcfbed53712f07c26003896d7b6261afcb4b/kernel-devel-4.14.241-184.433.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.162-141.675.amzn2.x86_64",
+      "kernelrelease": "4.14.243-185.433.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/600adf44728be15c0444633850b8c2070ec5f1cad2feb5573d760f9863604cf7/kernel-devel-5.10.162-141.675.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/ae3847b9c8d37107880dacd9667f26c07626b3ffd860294e1d29289f3408eff6/kernel-devel-4.14.243-185.433.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.75-79.358.amzn2.x86_64",
+      "kernelrelease": "4.14.225-168.357.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/46518e82898a223391c8b29f5f999cf11eaf4eed383dfaa6562d6214419e20e4/kernel-devel-5.10.75-79.358.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/d7f6407947f343c6793ae5c18b0013c326bb16bd0c85588f3799ba9a79d936fb/kernel-devel-4.14.225-168.357.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.93-87.444.amzn2.x86_64",
+      "kernelrelease": "4.14.309-231.529.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/18bb3125c6eea2834e9b98f374326e548238dbf128f873671e8d30c26ca48081/kernel-devel-5.10.93-87.444.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/d503c64fcf6933da619df2655d1d72d46c21e60619955d2a0d73fede7e623122/kernel-devel-4.14.309-231.529.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.112-108.499.amzn2.x86_64",
+      "kernelrelease": "4.14.198-152.320.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/5f7589d15dbb5a3c43b0809802f463c41c9349c1c274dd7dc31db09313a48619/kernel-devel-5.10.112-108.499.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/e3cdf44c0e0e6f058b33096b5db1b4284f6f83c8c49848fca9dc50428c656eb8/kernel-devel-4.14.198-152.320.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.50-44.132.amzn2.x86_64",
+      "kernelrelease": "4.14.88-88.76.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/acae53bf62f5acdba97c99e8a5354690245ef9c46d95eacc972e15f62febe5f2/kernel-devel-5.10.50-44.132.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/6eba5df81c75bbf2615acc62a5738f22f20af51dfc775f24dea82d8dd7848270/kernel-devel-4.14.88-88.76.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.126-117.518.amzn2.x86_64",
+      "kernelrelease": "4.14.311-233.529.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/cbbde606a84272ff1f314da43b1b3b3b3bdf5443d4dc963dd46846a8e0dd93c4/kernel-devel-5.10.126-117.518.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/ae579b73fa16364fb6507796f71aa27b12f1be1920b0279db5b72b873959b81b/kernel-devel-4.14.311-233.529.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.147-133.644.amzn2.x86_64",
+      "kernelrelease": "4.14.165-133.209.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/45d913b2bd277a25562d04cfa2f241eb4f690297f34de1ffa531b812403a3380/kernel-devel-5.10.147-133.644.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/79e8311f18ec9914180a1864761193630c6f7549756dad830e6d5f3e65a4ad93/kernel-devel-4.14.165-133.209.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.68-62.173.amzn2.x86_64",
+      "kernelrelease": "4.14.171-136.231.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/3e3fd48637c5bee00999565017a98671165a0175906fd525ebb8c5314dbe9598/kernel-devel-5.10.68-62.173.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/07ea6af089b546e54fb8dbc078bba180866e695754bc6efc16e58da9c48e2b54/kernel-devel-4.14.171-136.231.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.29-27.128.amzn2.x86_64",
+      "kernelrelease": "4.14.146-120.181.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/d90c76ba392e0e227a6776ee7e55fe0dfcea417b4dddcc1ca33876038af990b8/kernel-devel-5.10.29-27.128.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/2cc2ddc8593e07c1aa0365ea577185f3b4b0e5be3724be1aadd4ec1825620296/kernel-devel-4.14.146-120.181.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.144-127.601.amzn2.x86_64",
+      "kernelrelease": "4.14.109-99.92.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/bbaf40d086f6462e2e15f5ed6aab67ca31cb343953bccfc282da38e96eacf787/kernel-devel-5.10.144-127.601.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/61236e7b9a07d600f27ebddba9bb498b5d38b61ae5aaa644d8a79b2a370e6a02/kernel-devel-4.14.109-99.92.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.176-157.645.amzn2.x86_64",
+      "kernelrelease": "4.14.133-113.112.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/690a31ceea9deba0f3ab3a6e88b5275d3b93121f17ead8fae60a75094d088033/kernel-devel-5.10.176-157.645.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/97b246d5000b5166ab088a3f43067c26d07122cfa75e57332011ec8dd85e17c8/kernel-devel-4.14.133-113.112.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.109-104.500.amzn2.x86_64",
+      "kernelrelease": "4.14.238-182.421.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/ca19e72b4e6b43af5c589209d1c44211800e1fd556633a0359f8e50c6b9dfacc/kernel-devel-5.10.109-104.500.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/fa947a840e5a77bd5d1d911c085a1bc89ff563d39c436de2ac3b339a01052a77/kernel-devel-4.14.238-182.421.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.59-52.142.amzn2.x86_64",
+      "kernelrelease": "4.14.33-59.37.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/2abd72b05b4312e93dcde480a215be49133a291f197a1a377924736f4b52f45e/kernel-devel-5.10.59-52.142.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/1f2a8f97b200fb733971427e3a0d77fabaf2539a4a0f83178abf03afc123b55c/kernel-devel-4.14.33-59.37.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.209-160.335.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/8abbb0987d5ec4e3f25385e55233a2340a9d86ef03611aa172f348d2c8cd47bb/kernel-devel-4.14.209-160.335.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.146-119.123.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/721621e181aacad5ef4ceb3d21e94e85d3a7c0ee8a12cceacfd51b750bc65e22/kernel-devel-4.14.146-119.123.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.128-112.105.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/1ee54ede3dcf3eb3a02cf51adc6752d24033728c75180feb123d85460f970ed5/kernel-devel-4.14.128-112.105.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.301-225.528.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/dc77ca894bf57d8b3ad63e9122670fed414fbc5800601f7339ea5443c93a9291/kernel-devel-4.14.301-225.528.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.154-128.181.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/e30fc570fd5d7eb1d80ff1029ccce803f12b4fe1145c591aea337f5300174084/kernel-devel-4.14.154-128.181.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.299-223.520.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/13b711e5117ca3ad3c459a303dedfdb6dc0ad7c1440aabf02df6407a43bd94df/kernel-devel-4.14.299-223.520.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.104-95.84.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/f7e0e4ea03e8a20b2025e561bcfcee1348de5543ae0b46ebc2d44364a4451169/kernel-devel-4.14.104-95.84.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.55-68.37.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/fad2de4ee1cb497b89b8a872b6f2b3ca6b973f1cf9223dd4f575b54365d9d0ad/kernel-devel-4.14.55-68.37.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.181-140.257.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/8ab1b036e97e9b6897464be1cbbb9fa4a3d6be0c81aed73a425b169b8a5ca04c/kernel-devel-4.14.181-140.257.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.203-156.332.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/4c9bb7e4d425559a12975c7b2040f66b05cd4d4da42c783c64e47bee92506255/kernel-devel-4.14.203-156.332.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.77-81.59.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/b73a5a824bd1eb23522128573839e862d4d89ef8d544371b7c2bc3ae4730125b/kernel-devel-4.14.77-81.59.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.275-207.503.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/8ccf859409cd2467c46bd5a6eadc4aa3c1505d0e573fb710aae8b50484e596bc/kernel-devel-4.14.275-207.503.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.287-215.504.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/0971217c89c71bf2b4bee131e72f9f4170cc051c6d87ef3a413e1b0232345140/kernel-devel-4.14.287-215.504.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.77-86.82.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/9f388164ea775e7a6c36c8628bb9a66a47d9fe27c99e732a210f357e1213dda7/kernel-devel-4.14.77-86.82.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.9.77-41.59.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/b7c31d392e4b09503950d7d4c6590000cd7b7111d304e02e01b6b884a5882baf/kernel-devel-4.9.77-41.59.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.158-129.185.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/df87ab5931f4ec34c86ee21fddfc6db3af5b6532473d5873748ad8362068c5b9/kernel-devel-4.14.158-129.185.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.173-137.228.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/c181d3fc4dbd30a5d92eb506a0f220c015013b2a0ec515ccaa25463164cc55a5/kernel-devel-4.14.173-137.228.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.152-127.182.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/17e31daebc2985f0aabec4b962286404d9633219e6831b5ab3e7a32e6521e214/kernel-devel-4.14.152-127.182.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.72-73.55.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/2d755914f9f54c12d4b3fef793a1bb7b19c357c8c01d1817da10137bcc2c00b0/kernel-devel-4.14.72-73.55.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.232-177.418.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/365e57e2c3e24ea0f33adbfe1feeb56e962fa2c8cb9acccde4a64da055076815/kernel-devel-4.14.232-177.418.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.192-147.314.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/2c04c98cab68f805e07e41bffe8e309383410c31291ca4d2451dc7201687c24e/kernel-devel-4.14.192-147.314.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.232-176.381.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/a2c0ba54566bf959dff722a155b030452178e89ea15fdb529478b1dc1cd98791/kernel-devel-4.14.232-176.381.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.193-149.317.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/f40a678cd2d9ff76c2185b1373e78298fb0cf13ac9b00b01d14f2779108ce243/kernel-devel-4.14.193-149.317.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.47-64.38.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/75e5e9ac4e840b4400380247e970aa9423c2cf54418205746c4b103ba0b20c8d/kernel-devel-4.14.47-64.38.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.276-211.499.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/7d52dc18f0cc28227e5d750aa81d33639a611ff73a97c007131ae2f1287fe4be/kernel-devel-4.14.276-211.499.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.9.62-10.57.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/18381632cff65dcf8dd4b7fe67bb45f58dc85720816c78d03ffa6677cab4b9e1/kernel-devel-4.9.62-10.57.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.248-189.473.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/7c2378dc73a2b8e20f9da894867b06750501618e3c4287364c64d5d6df8fba30/kernel-devel-4.14.248-189.473.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.256-197.484.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/3a9c5e0dcd72b56375ae09187435471c7644775d4047d6361cefeed3e0aaa4a8/kernel-devel-4.14.256-197.484.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.51-66.38.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/0389abb805f0c83173dde432e30527bbbdddd4aa4e3e6b406e43a3ed6f201185/kernel-devel-4.14.51-66.38.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.177-139.254.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/0848bbdc8b0db2b0cb50cd627bdcfb678b9e92e89dcf151327b68bbb93da7387/kernel-devel-4.14.177-139.254.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.177-139.253.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/c0e5c1817dd874e97740a0eec3726e3d75ef5ed72d5d27311bdddd3de5785ad3/kernel-devel-4.14.177-139.253.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.268-205.500.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/0815c303b641ff8f4eabb9a5ed47763fd570b0af37a2636b2bdff92d7faf5a03/kernel-devel-4.14.268-205.500.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.291-218.527.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/b7dd61cffbd62d7fa778bf8ec2df12cbe4849ca80ab71e31acf518da3f9d3c89/kernel-devel-4.14.291-218.527.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.152-124.171.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/9acd7d9728341af2d43430f62db793c18866f3d3d66706e7f395069dc3c27b8a/kernel-devel-4.14.152-124.171.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.114-103.97.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/aacf53daeb34e5d547cccd61ab2c32bd8366f110fb3e3d460a95715d00b22f20/kernel-devel-4.14.114-103.97.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.301-224.520.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/39bf5a8a0084b2dfd13183f36352dcc82894919dd4a776025e8a28e584474850/kernel-devel-4.14.301-224.520.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.281-212.502.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/333f944a7a5ee308d61a30c3dff09017232758e1186d6e4490aeffe82c30cc40/kernel-devel-4.14.281-212.502.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.114-105.126.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/31d5277c31f70051058192957d1d41caf4ce16c1abb653c3829eb921a2b5820c/kernel-devel-4.14.114-105.126.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.97-90.72.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/346eda9496f9685e6faf173f13b05b91f9939ad5e0cdec4bddd5fa781304fa78/kernel-devel-4.14.97-90.72.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.165-131.185.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/e09baac08866224e31624501530d697f19317af4488f0c5147a1c72ab63094cb/kernel-devel-4.14.165-131.185.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.133-113.105.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/d59c3695e9b79c253a02ee63051880df267700db4180ff05f97b28b095085791/kernel-devel-4.14.133-113.105.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.186-146.268.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/5ee699a43db9d618cd9b2dce19c412eece824517aac40469995f84782380588b/kernel-devel-4.14.186-146.268.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.77-80.57.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/5d873815f1dd6d7cc1daf1e7beac5f0272fea77f7a4cd6668e930311a1265cd3/kernel-devel-4.14.77-80.57.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.9.85-47.59.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/05b73c14084f2f5986549eae006bed1c695ca1342f5bbcb7882369bf199c457c/kernel-devel-4.9.85-47.59.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.94-89.73.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/1d59b2e7fcf853883167dde06fad6267cce308b8f2f33124cdb4b747a518ac5c/kernel-devel-4.14.94-89.73.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.231-173.360.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/afcce9722d7797b3bad6982cdddcdc16e088c2aa3609843780f765c3d7fffed8/kernel-devel-4.14.231-173.360.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.26-54.32.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/092a176ab06c9fbd1a2507a7c938bdda5a4257d9a8ca51af9827ad8b911621b1/kernel-devel-4.14.26-54.32.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.9.76-38.79.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/961c3f208e61435f3d35f02115e3b2a94a42b5f264fac75d71ccabfa76dc947d/kernel-devel-4.9.76-38.79.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.290-217.505.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/8d64458b9a4edee57ac5c9fbd3c5a455e5e02e93606950212280b21b05945f43/kernel-devel-4.14.290-217.505.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.67-71.56.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/322f831d51f5274eb27ceec1d50d91244ca4661969e0ef22a0c7e1d5091645c9/kernel-devel-4.14.67-71.56.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.262-200.489.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/717b7ed75b4782b7ba462bf344015be77f74b6f204c4a78969469a9e7656edf7/kernel-devel-4.14.262-200.489.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.285-215.501.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/d37190e2b6c7e13361aee28f5cc063c7333440516e9dadcc8e5439ec2d6beadd/kernel-devel-4.14.285-215.501.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.106-97.85.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/9b3bfa84244fe45d6f1e3cc1213cc3466b8b608e5991012ce49daf30cd213363/kernel-devel-4.14.106-97.85.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.173-137.229.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/26607f2215328de1462ac99ce96a2a21204bef510b35a734d0c1c83fdbe117a0/kernel-devel-4.14.173-137.229.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.225-169.362.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/0f7877bb7c98a76a04bec91833a76ec3ea7051a46d10072eaea743adda47b07d/kernel-devel-4.14.225-169.362.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.219-161.340.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/f31514d804035b669f75eb2e346d0dff3781d87bab6c4ef14909bc052e31d6f0/kernel-devel-4.14.219-161.340.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.138-114.102.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/8063f68b8426af91385f4bf65da960468153c9cd614083501c50be885fc7a09b/kernel-devel-4.14.138-114.102.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.9.75-1.56.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/ae757f139e69f930fe9f703974265e913367cc2c798b69d5dd5cf062992c80e4/kernel-devel-4.9.75-1.56.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.214-160.339.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/5d9614e0e8941e5fbc20ccd88ddd4ea228af6757e71fddc53125ead035395640/kernel-devel-4.14.214-160.339.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.47-63.37.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/0c2fc20a36d00010828636f355baae1fee84c15fe0a773a78d94ce1c8ba99d70/kernel-devel-4.14.47-63.37.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.101-91.76.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/ede82888a2a4bedac8dce3b992d510e5af06cf7ec91d30098b2830ab6a37ca46/kernel-devel-4.14.101-91.76.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.231-173.361.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/b3b7a346bb5fb921ccb9779672e31c7de807f639a619d122cbeb5d8da10636c5/kernel-devel-4.14.231-173.361.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.209-160.339.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/7f6ec8659085118d7cbd25dca21a80ece8ae22885e0ce64398c26639167b9616/kernel-devel-4.14.209-160.339.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.88-88.73.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/553e60923b1173b225de6618cf7625b197f2a69dbec3c4dea19b2e64a6b93b5c/kernel-devel-4.14.88-88.73.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.314-237.533.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/0d0a9a3aa55c4308a59c59fc062b239a1351cfa9587d667e885e96e2e6e4007d/kernel-devel-4.14.314-237.533.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.121-109.96.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/bf8060e0b066eeb4be444d2246363ae501e98772c453295ed51eb5d07e9709c9/kernel-devel-4.14.121-109.96.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.296-222.539.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/635c3af49a948c3844fc8b638ef25898aeeb863ea647a417e6e8a4f2d58fc231/kernel-devel-4.14.296-222.539.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.304-226.531.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/58406d28b6fa8c218f3c6beb7f01fff2b1b55da5c165002edaab20781e045b6e/kernel-devel-4.14.304-226.531.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.246-187.474.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/ff1255c01ad7ce677e56c9526dacbf461b259939daa19b639f83364253f79711/kernel-devel-4.14.246-187.474.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.33-59.34.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/8cc01ea526bd05bbb937fbb21bd734de49255d8a9853943ee901ccdf487ee23b/kernel-devel-4.14.33-59.34.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.181-142.260.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/bc2f4303e39f87813564ef53c184678c26b49d66b7a8af262fe82423c3ae7090/kernel-devel-4.14.181-142.260.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.9.70-2.243.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/481f28639c1695786af479b6d69ee095cb70f328c964274a986200ee13c33c96/kernel-devel-4.9.70-2.243.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.273-207.502.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/333bc137363dd5992f5ac6987e682c0dffceeff9333d13128fe3209d41412afb/kernel-devel-4.14.273-207.502.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.252-195.481.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/08182959330e4ca9b2998853887e5e9aded3e33f4bab0b4446aad82aaedddcca/kernel-devel-4.14.252-195.481.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.294-220.533.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/1c003b73b358c6e35aaf546b0cc90e5f5893b8f3a3b114cdfc45b4d7e5f4dbaf/kernel-devel-4.14.294-220.533.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "4.14.123-111.109.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/core/2.0/x86_64/0b64c8ba97ac63fdfbb6b8ceffdda67bf2fa72cdf215efaba3406838403d9182/../../../../../blobstore/8caf088935e538f7c59ac19cefd96118de86c72e4dc479845c286a551fc07eff/kernel-devel-4.14.123-111.109.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -941,127 +837,7 @@
       "kernelrelease": "5.10.102-99.473.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/a5cd2db69f642d9e8bde004878d19cb0446a37f2d3f1b5aef7ad6a4c6dd45eb5/kernel-devel-5.10.102-99.473.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.149-133.644.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/ade08daadb1f2471aba4002b54e2c67500c0cdb3f39ac8132b95183402855a4b/kernel-devel-5.10.149-133.644.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.106-102.504.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/64f96d107ba9da421f020978c58fe9ee2a98ea5aefbc66d31b6886eee494352f/kernel-devel-5.10.106-102.504.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.50-44.131.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/d7a05ba10f6a969691e9d831d844ae6b90536967888c07f85a26c1ed42688e12/kernel-devel-5.10.50-44.131.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.96-90.460.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/b82670f07e0edd4ba1dd008db5a08d5bfe569ef5d1b9e259d32a5fc525668585/kernel-devel-5.10.96-90.460.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.179-166.674.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/feafe99a723e54351a3af92ff034c94c5177bca2c5109b7406fa1cdf026e45b8/kernel-devel-5.10.179-166.674.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.130-118.517.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/f0558ea00c6659ab2c3cb7d2083df295b5f39043dd0b00f8ac2d0612e1c0d2b6/kernel-devel-5.10.130-118.517.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.177-158.645.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/b2000c181dc6c2e6fbfb4bbe324ca19f35c3d14f45b29b3cb83171d48e76e7cf/kernel-devel-5.10.177-158.645.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.179-168.710.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/70141559028b2a599a87b02d5ed3db9a6cc248d2f61254c05ff021b4e7915836/kernel-devel-5.10.179-168.710.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.165-143.735.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/5148999828e0eb552c57c4fd10ccaaead4fee4dfc831637bbd7188a30c6bcb20/kernel-devel-5.10.165-143.735.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.155-138.670.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/4bca828e35fdc97310c6f81b425c1fbc4ca2462fee07bb1b88738eede735495c/kernel-devel-5.10.155-138.670.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.135-122.509.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/2c17bbdfb12377bf3e4a81b48c79126e964b10a4364df7aa3874bc5d6f04a78c/kernel-devel-5.10.135-122.509.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.173-154.642.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/42955ad90ee6e49d35405588887d006f2f1d56270393c2b7fe3f39d83abb8419/kernel-devel-5.10.173-154.642.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.167-147.601.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/a6dc481a1bbf6dd84256e4fe3ab1e4c53aa442d369f3282f3183f75083e56295/kernel-devel-5.10.167-147.601.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.118-111.515.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/692268872604200eb4306d9a5a7912086adc40f21f80e1eafd61fad264769685/kernel-devel-5.10.118-111.515.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.10.47-39.130.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/b249d08eac92c548b69308c4b547d47a46a11d1e4b8ba9d6e48493cf58647816/kernel-devel-5.10.47-39.130.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/a5cd2db69f642d9e8bde004878d19cb0446a37f2d3f1b5aef7ad6a4c6dd45eb5/kernel-devel-5.10.102-99.473.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1069,7 +845,119 @@
       "kernelrelease": "5.10.157-139.675.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/5c27d622130685a431085b581808cf4b6b898d42ffa1e1fa1ee7a16bb3c0fe28/kernel-devel-5.10.157-139.675.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/5c27d622130685a431085b581808cf4b6b898d42ffa1e1fa1ee7a16bb3c0fe28/kernel-devel-5.10.157-139.675.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.149-133.644.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/ade08daadb1f2471aba4002b54e2c67500c0cdb3f39ac8132b95183402855a4b/kernel-devel-5.10.149-133.644.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.179-168.710.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/70141559028b2a599a87b02d5ed3db9a6cc248d2f61254c05ff021b4e7915836/kernel-devel-5.10.179-168.710.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.118-111.515.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/692268872604200eb4306d9a5a7912086adc40f21f80e1eafd61fad264769685/kernel-devel-5.10.118-111.515.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.50-44.132.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/acae53bf62f5acdba97c99e8a5354690245ef9c46d95eacc972e15f62febe5f2/kernel-devel-5.10.50-44.132.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.167-147.601.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/a6dc481a1bbf6dd84256e4fe3ab1e4c53aa442d369f3282f3183f75083e56295/kernel-devel-5.10.167-147.601.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.130-118.517.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/f0558ea00c6659ab2c3cb7d2083df295b5f39043dd0b00f8ac2d0612e1c0d2b6/kernel-devel-5.10.130-118.517.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.135-122.509.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/2c17bbdfb12377bf3e4a81b48c79126e964b10a4364df7aa3874bc5d6f04a78c/kernel-devel-5.10.135-122.509.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.126-117.518.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/cbbde606a84272ff1f314da43b1b3b3b3bdf5443d4dc963dd46846a8e0dd93c4/kernel-devel-5.10.126-117.518.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.162-141.675.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/600adf44728be15c0444633850b8c2070ec5f1cad2feb5573d760f9863604cf7/kernel-devel-5.10.162-141.675.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.75-79.358.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/46518e82898a223391c8b29f5f999cf11eaf4eed383dfaa6562d6214419e20e4/kernel-devel-5.10.75-79.358.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.144-127.601.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/bbaf40d086f6462e2e15f5ed6aab67ca31cb343953bccfc282da38e96eacf787/kernel-devel-5.10.144-127.601.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.179-166.674.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/feafe99a723e54351a3af92ff034c94c5177bca2c5109b7406fa1cdf026e45b8/kernel-devel-5.10.179-166.674.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.50-44.131.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/d7a05ba10f6a969691e9d831d844ae6b90536967888c07f85a26c1ed42688e12/kernel-devel-5.10.50-44.131.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.177-158.645.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/b2000c181dc6c2e6fbfb4bbe324ca19f35c3d14f45b29b3cb83171d48e76e7cf/kernel-devel-5.10.177-158.645.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1077,23 +965,23 @@
       "kernelrelease": "5.10.178-162.673.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/cf29421019fe4b72832bda3da1e8bc30ac682712dbc9a90268ac821b17e4cac0/kernel-devel-5.10.178-162.673.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/cf29421019fe4b72832bda3da1e8bc30ac682712dbc9a90268ac821b17e4cac0/kernel-devel-5.10.178-162.673.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.35-31.135.amzn2.x86_64",
+      "kernelrelease": "5.10.59-52.142.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/5d48cac0fdcfa1b07d7b7e06ada582730d8bc6d41cafcc6ab60d163004539db3/kernel-devel-5.10.35-31.135.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/2abd72b05b4312e93dcde480a215be49133a291f197a1a377924736f4b52f45e/kernel-devel-5.10.59-52.142.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.10.29-27.126.amzn2.x86_64",
+      "kernelrelease": "5.10.147-133.644.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/86d8b6286527aa8a8fc764f333dc6bfa751c6aafb978337a5f601471d6de276a/kernel-devel-5.10.29-27.126.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/45d913b2bd277a25562d04cfa2f241eb4f690297f34de1ffa531b812403a3380/kernel-devel-5.10.147-133.644.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1101,7 +989,31 @@
       "kernelrelease": "5.10.62-55.141.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/e8d75a421b95d60f3447ca0cff25bb3780d9cd5814a1791afe7728bef02fe5ca/kernel-devel-5.10.62-55.141.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/e8d75a421b95d60f3447ca0cff25bb3780d9cd5814a1791afe7728bef02fe5ca/kernel-devel-5.10.62-55.141.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.106-102.504.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/64f96d107ba9da421f020978c58fe9ee2a98ea5aefbc66d31b6886eee494352f/kernel-devel-5.10.106-102.504.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.93-87.444.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/18bb3125c6eea2834e9b98f374326e548238dbf128f873671e8d30c26ca48081/kernel-devel-5.10.93-87.444.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.10.155-138.670.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/4bca828e35fdc97310c6f81b425c1fbc4ca2462fee07bb1b88738eede735495c/kernel-devel-5.10.155-138.670.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1109,135 +1021,103 @@
       "kernelrelease": "5.10.82-83.359.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/ff5e42c6ff3f741e16e660d04180b352ac394c49e314a62bf040a1a7d38a53df/../../../../../../blobstore/323d072dba23721ab05c343964f8e1b8b75353ae87557afa3c7d7e15cdeb88e6/kernel-devel-5.10.82-83.359.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/323d072dba23721ab05c343964f8e1b8b75353ae87557afa3c7d7e15cdeb88e6/kernel-devel-5.10.82-83.359.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.15.108-65.141.amzn2.x86_64",
+      "kernelrelease": "5.10.29-27.126.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/ca15df4f79f7ee05b16a98e473d49e8b28c6d3d3b4b3dbfcc0154f6034e37eb4/kernel-devel-5.15.108-65.141.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/86d8b6286527aa8a8fc764f333dc6bfa751c6aafb978337a5f601471d6de276a/kernel-devel-5.10.29-27.126.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.15.90-54.138.amzn2.x86_64",
+      "kernelrelease": "5.10.176-157.645.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/a44135d50d0fe237e7e55da22f26b5c24ce4d6202cf78f8a1fe0ce6ba01c386e/kernel-devel-5.15.90-54.138.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/690a31ceea9deba0f3ab3a6e88b5275d3b93121f17ead8fae60a75094d088033/kernel-devel-5.10.176-157.645.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.15.104-63.140.amzn2.x86_64",
+      "kernelrelease": "5.10.109-104.500.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/7c3eb362a9393c668b98f6c38d68e3a0f8dcc979c496e224bdba3cb00d17f2f3/kernel-devel-5.15.104-63.140.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/ca19e72b4e6b43af5c589209d1c44211800e1fd556633a0359f8e50c6b9dfacc/kernel-devel-5.10.109-104.500.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.15.54-25.126.amzn2.x86_64",
+      "kernelrelease": "5.10.68-62.173.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/14d15014a0f9bcf599ad14794094eadc33d62e5ab5cf129a39964a5b77a9e254/kernel-devel-5.15.54-25.126.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/3e3fd48637c5bee00999565017a98671165a0175906fd525ebb8c5314dbe9598/kernel-devel-5.10.68-62.173.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.15.43-20.123.amzn2.x86_64",
+      "kernelrelease": "5.10.29-27.128.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/c55863128507569e6e99736cbd55b1cf05c334ac52f7a35d11772fe07c6f8676/kernel-devel-5.15.43-20.123.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/d90c76ba392e0e227a6776ee7e55fe0dfcea417b4dddcc1ca33876038af990b8/kernel-devel-5.10.29-27.128.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.15.59-33.133.amzn2.x86_64",
+      "kernelrelease": "5.10.96-90.460.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/90d49c45ab1cf0fc24c2c157c509bfa241d39df336fc0b76475e91094e53e9ea/kernel-devel-5.15.59-33.133.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/b82670f07e0edd4ba1dd008db5a08d5bfe569ef5d1b9e259d32a5fc525668585/kernel-devel-5.10.96-90.460.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.15.73-48.135.amzn2.x86_64",
+      "kernelrelease": "5.10.112-108.499.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/11c1b010f2b5e3b6cd8ae72b5540fe7fc2fa01b245bb7ad7b5c386c3c7d59baf/kernel-devel-5.15.73-48.135.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/5f7589d15dbb5a3c43b0809802f463c41c9349c1c274dd7dc31db09313a48619/kernel-devel-5.10.112-108.499.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.15.43-20.103.amzn2.x86_64",
+      "kernelrelease": "5.10.179-171.711.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/65d6c29b68a73c8d1195a6828686aac2c9bfe0f1c91658c3cfb4fa2f7d752728/kernel-devel-5.15.43-20.103.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/d8dbc8cf2c36ff9eaee2d915bbaf9a6e6ff8af150816d2a09c82430a16c34d28/kernel-devel-5.10.179-171.711.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.15.106-64.140.amzn2.x86_64",
+      "kernelrelease": "5.10.173-154.642.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/0b872877e67df8288db4b77f1f3a4cf5383def69beb83b419db38d0bd2e01c7b/kernel-devel-5.15.106-64.140.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/42955ad90ee6e49d35405588887d006f2f1d56270393c2b7fe3f39d83abb8419/kernel-devel-5.10.173-154.642.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.15.75-48.135.amzn2.x86_64",
+      "kernelrelease": "5.10.47-39.130.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/c8c461abef6ef47d0211b54ae3de1ab6746c0d9c9962570192ecc0f3ab13177b/kernel-devel-5.15.75-48.135.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/b249d08eac92c548b69308c4b547d47a46a11d1e4b8ba9d6e48493cf58647816/kernel-devel-5.10.47-39.130.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.15.110-70.141.amzn2.x86_64",
+      "kernelrelease": "5.10.165-143.735.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/4fb7909cc5b739d7525a1847d69d1265e3a0b3d4af7cfd53f2561a605067bf25/kernel-devel-5.15.110-70.141.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/5148999828e0eb552c57c4fd10ccaaead4fee4dfc831637bbd7188a30c6bcb20/kernel-devel-5.10.165-143.735.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.15.57-29.131.amzn2.x86_64",
+      "kernelrelease": "5.10.35-31.135.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/c2bb14d86e6434ed7bcc4bf670068e941e2a098ab7f4797b87300cae0dafa498/kernel-devel-5.15.57-29.131.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.15.69-37.134.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/1ab21382d04306e109e9cc0b964aea6a7cc7c26a879f121ed1494bab37f75e9b/kernel-devel-5.15.69-37.134.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.15.79-51.138.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/254a3677e93d41b7fbc8f3e02a98ca4ac6e71087831da2987fc580a82e006def/kernel-devel-5.15.79-51.138.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.15.110-70.143.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/5d92e50a0b5a65556ded715c36389f2e061f9eeb745eb9472e3d4f05778e5c3b/kernel-devel-5.15.110-70.143.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.15.93-55.139.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/5a8d227e7aebda9626806a17545bd2a8796be94bfd5ebfca58237b9cdf804f8e/kernel-devel-5.15.93-55.139.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.10/stable/x86_64/b86e144c316dd589ba15722819ffb8512034f8a902a01cce6e0aeb2bb6a0aea9/../../../../../../blobstore/5d48cac0fdcfa1b07d7b7e06ada582730d8bc6d41cafcc6ab60d163004539db3/kernel-devel-5.10.35-31.135.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1245,7 +1125,111 @@
       "kernelrelease": "5.15.86-53.137.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/e89e5cd695275cffb9650ced74431a70841d459d4e5779198747891f9653be11/kernel-devel-5.15.86-53.137.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/e89e5cd695275cffb9650ced74431a70841d459d4e5779198747891f9653be11/kernel-devel-5.15.86-53.137.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.59-33.133.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/90d49c45ab1cf0fc24c2c157c509bfa241d39df336fc0b76475e91094e53e9ea/kernel-devel-5.15.59-33.133.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.54-25.126.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/14d15014a0f9bcf599ad14794094eadc33d62e5ab5cf129a39964a5b77a9e254/kernel-devel-5.15.54-25.126.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.79-51.138.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/254a3677e93d41b7fbc8f3e02a98ca4ac6e71087831da2987fc580a82e006def/kernel-devel-5.15.79-51.138.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.104-63.140.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/7c3eb362a9393c668b98f6c38d68e3a0f8dcc979c496e224bdba3cb00d17f2f3/kernel-devel-5.15.104-63.140.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.43-20.103.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/65d6c29b68a73c8d1195a6828686aac2c9bfe0f1c91658c3cfb4fa2f7d752728/kernel-devel-5.15.43-20.103.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.73-48.135.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/11c1b010f2b5e3b6cd8ae72b5540fe7fc2fa01b245bb7ad7b5c386c3c7d59baf/kernel-devel-5.15.73-48.135.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.43-20.123.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/c55863128507569e6e99736cbd55b1cf05c334ac52f7a35d11772fe07c6f8676/kernel-devel-5.15.43-20.123.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.110-70.143.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/5d92e50a0b5a65556ded715c36389f2e061f9eeb745eb9472e3d4f05778e5c3b/kernel-devel-5.15.110-70.143.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.90-54.138.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/a44135d50d0fe237e7e55da22f26b5c24ce4d6202cf78f8a1fe0ce6ba01c386e/kernel-devel-5.15.90-54.138.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.108-65.141.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/ca15df4f79f7ee05b16a98e473d49e8b28c6d3d3b4b3dbfcc0154f6034e37eb4/kernel-devel-5.15.108-65.141.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.93-55.139.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/5a8d227e7aebda9626806a17545bd2a8796be94bfd5ebfca58237b9cdf804f8e/kernel-devel-5.15.93-55.139.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.110-70.141.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/4fb7909cc5b739d7525a1847d69d1265e3a0b3d4af7cfd53f2561a605067bf25/kernel-devel-5.15.110-70.141.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.69-37.134.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/1ab21382d04306e109e9cc0b964aea6a7cc7c26a879f121ed1494bab37f75e9b/kernel-devel-5.15.69-37.134.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1253,7 +1237,23 @@
       "kernelrelease": "5.15.50-23.125.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/ba7c18601cbe38eb3405df0b17644519d6fecc50505b494fad32112b0c862ac2/kernel-devel-5.15.50-23.125.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/ba7c18601cbe38eb3405df0b17644519d6fecc50505b494fad32112b0c862ac2/kernel-devel-5.15.50-23.125.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.106-64.140.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/0b872877e67df8288db4b77f1f3a4cf5383def69beb83b419db38d0bd2e01c7b/kernel-devel-5.15.106-64.140.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.15.57-29.131.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/c2bb14d86e6434ed7bcc4bf670068e941e2a098ab7f4797b87300cae0dafa498/kernel-devel-5.15.57-29.131.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1261,111 +1261,15 @@
       "kernelrelease": "5.15.102-61.139.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/0579cbbf51ca7285dc375520561b0c598c64a14fbd49700445d730de1415a525/../../../../../../blobstore/c68f26352fc9d4fde0df3f872dd13571da2c67a4723ecb914e358d115748d356/kernel-devel-5.15.102-61.139.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/c68f26352fc9d4fde0df3f872dd13571da2c67a4723ecb914e358d115748d356/kernel-devel-5.15.102-61.139.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.4.241-150.347.amzn2.x86_64",
+      "kernelrelease": "5.15.75-48.135.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/428229160781f02f99b4aa4f58b2128adfd387aadb130969d0e437b9d32be680/kernel-devel-5.4.241-150.347.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.162-86.275.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/5b83122c69371660360bbc72809f909613315e9efe8b4fc1de8b7ca09502502e/kernel-devel-5.4.162-86.275.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.46-23.77.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/84c04e5ee6220fd83bb601cffbcf57a79560747104c16ebb2cbed604e3557ef7/kernel-devel-5.4.46-23.77.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.176-91.338.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/e81c9f1255e06b928f0195438076ff0b3968a27077efd608d3995838bdfe1968/kernel-devel-5.4.176-91.338.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.156-83.273.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/d9d2b313143d6cab97599686f64455440aa828db1be7de84818d82c289aed9c1/kernel-devel-5.4.156-83.273.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.80-40.140.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/3cb078ddedcc8f7fb68c09538f4bb0f4c372e7af700265c9f987cd50b29ed493/kernel-devel-5.4.80-40.140.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.242-155.348.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/b5788de8d49d6076f9f08ee03b8f268541723983472e1deee3c42d62d3c95099/kernel-devel-5.4.242-155.348.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.149-73.259.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/0769a7249bd629216032a20d4a99d680f8a3a955e22e43a8edd065a44f3a4069/kernel-devel-5.4.149-73.259.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.141-67.229.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/bf68f0b89be6ca18cff40dbaaebd3aa27b01b79f98e71ec5296fb2855e8e9dc9/kernel-devel-5.4.141-67.229.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.58-32.125.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/6bae59358dae7d22dcb5367097e0665e8083ec0ddca96e54e6b0db735286f3fb/kernel-devel-5.4.58-32.125.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.144-69.257.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/2e599557b2b05925c497e568b450b0a9479302f69a0b2eb5bb8e8290b1b8440a/kernel-devel-5.4.144-69.257.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.190-107.353.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/4421829a971058d8b64ce3571ab8828da405fd2fa6ee618642afa72caba86a0a/kernel-devel-5.4.190-107.353.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.226-129.415.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/35d7b841e4cd530b93801b412b44e81864b227c11ea38cb491fcab77a7ae300a/kernel-devel-5.4.226-129.415.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.15/stable/x86_64/aad2dfafa4aeb5167cb53b1804c3a259f5eca3eb66d3ed5306139d454adbed9e/../../../../../../blobstore/c8c461abef6ef47d0211b54ae3de1ab6746c0d9c9962570192ecc0f3ab13177b/kernel-devel-5.15.75-48.135.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1373,87 +1277,15 @@
       "kernelrelease": "5.4.129-63.229.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/76b33544679733c2c446ba38133cc48ed69b51bca09667ab89dbc4a89b7d1f6a/kernel-devel-5.4.129-63.229.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/76b33544679733c2c446ba38133cc48ed69b51bca09667ab89dbc4a89b7d1f6a/kernel-devel-5.4.129-63.229.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.4.181-99.354.amzn2.x86_64",
+      "kernelrelease": "5.4.144-69.257.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/8c9710dfd94486892824108bd5514b229699e7df55f827a74f9a04abd17a9dcd/kernel-devel-5.4.181-99.354.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.209-116.363.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/58983abb1c57a93cbea8ca9676449c1b20bf1f91a64e5396425715ae8dfb331d/kernel-devel-5.4.209-116.363.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.201-111.359.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/68bda4db5e5a92ad109c8fa29e1591c7b8eb0fce07eb99f5f5ba8232b6649a61/kernel-devel-5.4.201-111.359.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.105-48.177.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/141afaf018a2cff4bde70333713080d1df72d2f5dfbc3c7d0c83a624245358e5/kernel-devel-5.4.105-48.177.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.186-102.354.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/9d5b8276f60a1fd4bbfb2c0a7140fe3d8d85fb16aa547bef1a453f91bc721244/kernel-devel-5.4.186-102.354.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.110-54.182.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/99c72d63f2de1f8d42bb1b3efdd10e5fc84fd229aa22f719691c75b9572662bf/kernel-devel-5.4.110-54.182.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.196-108.356.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/013f72ea855c9c3754c7f7f78b33adece907ba142770137cfb578c19db228bc5/kernel-devel-5.4.196-108.356.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.204-113.362.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/d222883ee3b846347eeb0a0d5700b17e174a78cc1ddbf8a8850a180cc9286ecc/kernel-devel-5.4.204-113.362.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.228-131.415.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/85c5567db97e73a9a37ce27222eb73b97a91a6ba845aaa686434acceb5c53f5d/kernel-devel-5.4.228-131.415.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.219-126.410.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/5e13adb390335c482c3b15ff8b52bea729f2e7d8e08444f974a930ac523eb783/kernel-devel-5.4.219-126.410.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/2e599557b2b05925c497e568b450b0a9479302f69a0b2eb5bb8e8290b1b8440a/kernel-devel-5.4.144-69.257.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1461,47 +1293,31 @@
       "kernelrelease": "5.4.214-120.368.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/7635d43bb00b3ee041b45823fa3df7f2502f6efc06bcca0ac3817c5e32564498/kernel-devel-5.4.214-120.368.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/7635d43bb00b3ee041b45823fa3df7f2502f6efc06bcca0ac3817c5e32564498/kernel-devel-5.4.214-120.368.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.4.46-19.75.amzn2.x86_64",
+      "kernelrelease": "5.4.58-32.125.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/b836550485e7ab9dddc4f091a8d92a89e5f13fb93eec8acd02a3b25d23112c43/kernel-devel-5.4.46-19.75.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/6bae59358dae7d22dcb5367097e0665e8083ec0ddca96e54e6b0db735286f3fb/kernel-devel-5.4.58-32.125.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.4.242-156.349.amzn2.x86_64",
+      "kernelrelease": "5.4.46-23.77.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/b1d092206d5e29c3739fc7608c695944c7f59f3193b87ef15c04eac3c6700aeb/kernel-devel-5.4.242-156.349.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/84c04e5ee6220fd83bb601cffbcf57a79560747104c16ebb2cbed604e3557ef7/kernel-devel-5.4.46-23.77.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.4.20-12.75.amzn2.x86_64",
+      "kernelrelease": "5.4.110-54.182.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/900ebb892892b707dda60ccef605d9c2934b65f0e8ad18617fd99841ee1f4f4a/kernel-devel-5.4.20-12.75.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.129-62.227.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/4391e0327edd941f19291ccfa23506ae389c882d6b4ff50b79c1000d43336817/kernel-devel-5.4.129-62.227.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.219-126.411.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/22b4acc343812414930f21b92e1555448381d2a22b144eafe709904ec63c3a4a/kernel-devel-5.4.219-126.411.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/99c72d63f2de1f8d42bb1b3efdd10e5fc84fd229aa22f719691c75b9572662bf/kernel-devel-5.4.110-54.182.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1509,31 +1325,15 @@
       "kernelrelease": "5.4.228-132.418.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/9f68a6078b1b837092cb2755a8f37da0e63fb3b4f3d6b24cf8d56dd19a3eef67/kernel-devel-5.4.228-132.418.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/9f68a6078b1b837092cb2755a8f37da0e63fb3b4f3d6b24cf8d56dd19a3eef67/kernel-devel-5.4.228-132.418.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.4.224-128.414.amzn2.x86_64",
+      "kernelrelease": "5.4.105-48.177.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/87cceffcfdf834fc6b5fcb7dadaf380ec0b31a257c8282393409dd8738f46baf/kernel-devel-5.4.224-128.414.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.117-58.216.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/248b2b078145c4cc7c925850fc56ec0e3f0da141fb1b269fd0c2ebadfd8d41cd/kernel-devel-5.4.117-58.216.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.188-104.359.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/830875a1747e16cdc8a84fac964972fc4dd415b30d3414fb6af37804897f6c1d/kernel-devel-5.4.188-104.359.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/141afaf018a2cff4bde70333713080d1df72d2f5dfbc3c7d0c83a624245358e5/kernel-devel-5.4.105-48.177.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1541,31 +1341,7 @@
       "kernelrelease": "5.4.238-148.347.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/fa5caa71652bca6f4a8aeff9356d18bd1785d8620080398768acbb53a7fb5756/kernel-devel-5.4.238-148.347.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.74-36.135.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/d42f478d8bb04b40a9ca5de254b7acbc39fd61894b70d475517189dfe836320d/kernel-devel-5.4.74-36.135.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.68-34.125.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/edb18ee29589c2f0ad7093b4c65b18a4480d7cd0f13c22c2ea896d6279a2ef45/kernel-devel-5.4.68-34.125.amzn2.x86_64.rpm"
-      ]
-    },
-    {
-      "kernelversion": 1,
-      "kernelrelease": "5.4.58-27.104.amzn2.x86_64",
-      "target": "amazonlinux2",
-      "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/7624960746203a2c05229ac2cf7e731e1be7fa408e80aea3441633dc79a92e32/kernel-devel-5.4.58-27.104.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/fa5caa71652bca6f4a8aeff9356d18bd1785d8620080398768acbb53a7fb5756/kernel-devel-5.4.238-148.347.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1573,31 +1349,47 @@
       "kernelrelease": "5.4.217-126.408.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/097313fb814aa921e1c48695542c50137f7560d68bc9de85cdb23295a933411f/kernel-devel-5.4.217-126.408.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/097313fb814aa921e1c48695542c50137f7560d68bc9de85cdb23295a933411f/kernel-devel-5.4.217-126.408.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.4.172-90.336.amzn2.x86_64",
+      "kernelrelease": "5.4.176-91.338.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/d1cc3d5c7ea361e2e81ff6650516cbcabf075169e869abfcc052a2461bd4f2e4/kernel-devel-5.4.172-90.336.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/e81c9f1255e06b928f0195438076ff0b3968a27077efd608d3995838bdfe1968/kernel-devel-5.4.176-91.338.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.4.231-137.341.amzn2.x86_64",
+      "kernelrelease": "5.4.68-34.125.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/b4cf154cc626e77a87b2748efaf24285e3d07d8cffc31024a86d9df7986cd70a/kernel-devel-5.4.231-137.341.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/edb18ee29589c2f0ad7093b4c65b18a4480d7cd0f13c22c2ea896d6279a2ef45/kernel-devel-5.4.68-34.125.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.4.209-116.367.amzn2.x86_64",
+      "kernelrelease": "5.4.219-126.411.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/276f8434008720135c698d2edb1010c15b51d052d2bf3f9208e589dbe5da0899/kernel-devel-5.4.209-116.367.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/22b4acc343812414930f21b92e1555448381d2a22b144eafe709904ec63c3a4a/kernel-devel-5.4.219-126.411.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.20-12.75.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/900ebb892892b707dda60ccef605d9c2934b65f0e8ad18617fd99841ee1f4f4a/kernel-devel-5.4.20-12.75.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.162-86.275.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/5b83122c69371660360bbc72809f909613315e9efe8b4fc1de8b7ca09502502e/kernel-devel-5.4.162-86.275.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1605,31 +1397,63 @@
       "kernelrelease": "5.4.50-25.83.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/78262d14c05aab11ff459ad20d76b238554813dc810cdd362742fdadb353b10b/kernel-devel-5.4.50-25.83.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/78262d14c05aab11ff459ad20d76b238554813dc810cdd362742fdadb353b10b/kernel-devel-5.4.50-25.83.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.4.38-17.76.amzn2.x86_64",
+      "kernelrelease": "5.4.129-62.227.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/d18de6893e62da4cf448a7b82a716ce801c050b24706e7960f1e6f82dc456986/kernel-devel-5.4.38-17.76.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/4391e0327edd941f19291ccfa23506ae389c882d6b4ff50b79c1000d43336817/kernel-devel-5.4.129-62.227.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.4.91-41.139.amzn2.x86_64",
+      "kernelrelease": "5.4.224-128.414.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/8f615748b620d57cc3daf9e592a3af63f6880f35e9a98e1092219a3b89c4fb10/kernel-devel-5.4.91-41.139.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/87cceffcfdf834fc6b5fcb7dadaf380ec0b31a257c8282393409dd8738f46baf/kernel-devel-5.4.224-128.414.amzn2.x86_64.rpm"
       ]
     },
     {
       "kernelversion": 1,
-      "kernelrelease": "5.4.235-144.344.amzn2.x86_64",
+      "kernelrelease": "5.4.172-90.336.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/8cb33943794efdff1178a8c611a779714e1d13297e82d7d49317bc2c59ad67cb/kernel-devel-5.4.235-144.344.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/d1cc3d5c7ea361e2e81ff6650516cbcabf075169e869abfcc052a2461bd4f2e4/kernel-devel-5.4.172-90.336.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.201-111.359.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/68bda4db5e5a92ad109c8fa29e1591c7b8eb0fce07eb99f5f5ba8232b6649a61/kernel-devel-5.4.201-111.359.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.226-129.415.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/35d7b841e4cd530b93801b412b44e81864b227c11ea38cb491fcab77a7ae300a/kernel-devel-5.4.226-129.415.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.231-137.341.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/b4cf154cc626e77a87b2748efaf24285e3d07d8cffc31024a86d9df7986cd70a/kernel-devel-5.4.231-137.341.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.242-156.349.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/b1d092206d5e29c3739fc7608c695944c7f59f3193b87ef15c04eac3c6700aeb/kernel-devel-5.4.242-156.349.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1637,7 +1461,111 @@
       "kernelrelease": "5.4.110-54.189.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/4cf0e714fcf0b1480c44a686590c1951dfa000403ad0159177c60b80a86a6bdf/kernel-devel-5.4.110-54.189.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/4cf0e714fcf0b1480c44a686590c1951dfa000403ad0159177c60b80a86a6bdf/kernel-devel-5.4.110-54.189.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.38-17.76.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/d18de6893e62da4cf448a7b82a716ce801c050b24706e7960f1e6f82dc456986/kernel-devel-5.4.38-17.76.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.149-73.259.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/0769a7249bd629216032a20d4a99d680f8a3a955e22e43a8edd065a44f3a4069/kernel-devel-5.4.149-73.259.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.196-108.356.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/013f72ea855c9c3754c7f7f78b33adece907ba142770137cfb578c19db228bc5/kernel-devel-5.4.196-108.356.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.228-131.415.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/85c5567db97e73a9a37ce27222eb73b97a91a6ba845aaa686434acceb5c53f5d/kernel-devel-5.4.228-131.415.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.186-102.354.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/9d5b8276f60a1fd4bbfb2c0a7140fe3d8d85fb16aa547bef1a453f91bc721244/kernel-devel-5.4.186-102.354.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.209-116.363.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/58983abb1c57a93cbea8ca9676449c1b20bf1f91a64e5396425715ae8dfb331d/kernel-devel-5.4.209-116.363.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.58-27.104.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/7624960746203a2c05229ac2cf7e731e1be7fa408e80aea3441633dc79a92e32/kernel-devel-5.4.58-27.104.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.91-41.139.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/8f615748b620d57cc3daf9e592a3af63f6880f35e9a98e1092219a3b89c4fb10/kernel-devel-5.4.91-41.139.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.117-58.216.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/248b2b078145c4cc7c925850fc56ec0e3f0da141fb1b269fd0c2ebadfd8d41cd/kernel-devel-5.4.117-58.216.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.204-113.362.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/d222883ee3b846347eeb0a0d5700b17e174a78cc1ddbf8a8850a180cc9286ecc/kernel-devel-5.4.204-113.362.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.235-144.344.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/8cb33943794efdff1178a8c611a779714e1d13297e82d7d49317bc2c59ad67cb/kernel-devel-5.4.235-144.344.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.241-150.347.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/428229160781f02f99b4aa4f58b2128adfd387aadb130969d0e437b9d32be680/kernel-devel-5.4.241-150.347.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.242-155.348.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/b5788de8d49d6076f9f08ee03b8f268541723983472e1deee3c42d62d3c95099/kernel-devel-5.4.242-155.348.amzn2.x86_64.rpm"
       ]
     },
     {
@@ -1645,7 +1573,95 @@
       "kernelrelease": "5.4.95-42.163.amzn2.x86_64",
       "target": "amazonlinux2",
       "headers": [
-        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/9f1e90d4d8759e7a1f43315763279b48c3d845168d8c507e06cc4d1b620cf1ef/../../../../../../blobstore/117ddd7ca04faa044ae9713b7ddcfd1f1531242e6d4aedfe3d8646acc5254905/kernel-devel-5.4.95-42.163.amzn2.x86_64.rpm"
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/117ddd7ca04faa044ae9713b7ddcfd1f1531242e6d4aedfe3d8646acc5254905/kernel-devel-5.4.95-42.163.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.74-36.135.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/d42f478d8bb04b40a9ca5de254b7acbc39fd61894b70d475517189dfe836320d/kernel-devel-5.4.74-36.135.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.46-19.75.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/b836550485e7ab9dddc4f091a8d92a89e5f13fb93eec8acd02a3b25d23112c43/kernel-devel-5.4.46-19.75.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.190-107.353.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/4421829a971058d8b64ce3571ab8828da405fd2fa6ee618642afa72caba86a0a/kernel-devel-5.4.190-107.353.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.209-116.367.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/276f8434008720135c698d2edb1010c15b51d052d2bf3f9208e589dbe5da0899/kernel-devel-5.4.209-116.367.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.156-83.273.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/d9d2b313143d6cab97599686f64455440aa828db1be7de84818d82c289aed9c1/kernel-devel-5.4.156-83.273.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.141-67.229.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/bf68f0b89be6ca18cff40dbaaebd3aa27b01b79f98e71ec5296fb2855e8e9dc9/kernel-devel-5.4.141-67.229.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.219-126.410.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/5e13adb390335c482c3b15ff8b52bea729f2e7d8e08444f974a930ac523eb783/kernel-devel-5.4.219-126.410.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.80-40.140.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/3cb078ddedcc8f7fb68c09538f4bb0f4c372e7af700265c9f987cd50b29ed493/kernel-devel-5.4.80-40.140.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.242-159.350.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/acbd4e5d95a403f130ec6b9b6fc6aaf5c6a27d8e580515cbf47af564375dd448/kernel-devel-5.4.242-159.350.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.188-104.359.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/830875a1747e16cdc8a84fac964972fc4dd415b30d3414fb6af37804897f6c1d/kernel-devel-5.4.188-104.359.amzn2.x86_64.rpm"
+      ]
+    },
+    {
+      "kernelversion": 1,
+      "kernelrelease": "5.4.181-99.354.amzn2.x86_64",
+      "target": "amazonlinux2",
+      "headers": [
+        "http://amazonlinux.us-east-1.amazonaws.com/2/extras/kernel-5.4/stable/x86_64/a3582b0886bc85a7c5c6ebefb2c95429e5fd8649e776a9f809e8182844038d45/../../../../../../blobstore/8c9710dfd94486892824108bd5514b229699e7df55f827a74f9a04abd17a9dcd/kernel-devel-5.4.181-99.354.amzn2.x86_64.rpm"
       ]
     }
   ]
