@@ -1,7 +1,7 @@
 import json
 import boto3
 
-DRIVERVERSION="2.0.0+driver"
+DRIVERVERSION="3.0.1+driver"
 
 def load_json(filepath):
     """Loads json content from files
